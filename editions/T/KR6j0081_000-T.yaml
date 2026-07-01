@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0081/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵天擇地法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0910.xml
+    old_id: T18n0910
+hash: sha256:a5f14633d11ca94162b8e082b2999c9c4c04d6166606a9359d94c44927c9c83e

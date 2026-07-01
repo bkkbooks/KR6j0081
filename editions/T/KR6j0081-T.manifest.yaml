@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0081/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0081/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵天擇地法
+  identifiers:
+    krp: KR6j0081
+    cbeta: T18n0910
+    cbeta_old_id: T18n0910
+    authorityid: CA0000968
+    json_key: T0910
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0910.xml
+    old_id: T18n0910
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0081_000-T.yaml, hash: 'sha256:a5f14633d11ca94162b8e082b2999c9c4c04d6166606a9359d94c44927c9c83e'}
+  - {seq: 1, filename: KR6j0081_001-T.yaml, hash: 'sha256:07b981b3c04c38cf1f33af0a44150cda4d9764b1ff4b7c67ed7d8eb01258454b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0081_000-T.markers.yaml, hash: 'sha256:510c24be9a08b9b580c54646acdbf333c9f605dc463ec1d5c4f1b31e4476246e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0081_001-T.markers.yaml, hash: 'sha256:e097321c92d6c917d2a1edef033d29887502e300761616e759bc6ff34fc43eee'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0081_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1471
+  label: 梵天擇地法
+  type: juan
+  level: 1
+hash: sha256:55e671f5526a8d255e67a8e206be315a4289de688cd91c5d5023e14eacc36e22
