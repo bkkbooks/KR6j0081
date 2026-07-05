@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0081_000.yaml, hash: 'sha256:a5f14633d11ca94162b8e082b2999c9c4c04d6166606a9359d94c44927c9c83e'}
-  - {seq: 1, filename: KR6j0081_001.yaml, hash: 'sha256:dedb5c2b4f9ad23f434f2c703994c9b95b69706b73912d96a6cc7841b8b221e7'}
+  - {seq: 1, filename: KR6j0081_001.yaml, hash: 'sha256:07b981b3c04c38cf1f33af0a44150cda4d9764b1ff4b7c67ed7d8eb01258454b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0081_001.markers.yaml, hash: 'sha256:cd13e46352ba5a08f0c6e695d137e558a79a26504b4bb5b49fffe16f666687d1'}
+  - {seq: 0, role: markers, filename: assets/KR6j0081_000.markers.yaml, hash: 'sha256:3a1b4d79ff7005c08ad2cbb9a764d54cc665e3a6eb66516c97c92666ffd09e3f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0081_001.markers.yaml, hash: 'sha256:4bdf10288279614afe387595526b19c42b1ddf265478e508a356006bd3c91471'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 梵天擇地法
   type: juan
   level: 1
-hash: sha256:05275c4a0a0d6a7fa994cff18cd57bb04d545b1eae845927369b9f432021a201
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:79a6d78669a9a9da78ccf130c3e974fca0b779a85b0407725b8d3f4f01e51936
