@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0081/v1
 canonical_location: https://kanripo.org/bkk/KR6j0081/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 梵天擇地法
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0081_000.yaml, hash: 'sha256:a5f14633d11ca94162b8e082b2999c9c4c04d6166606a9359d94c44927c9c83e'}
-  - {seq: 1, filename: KR6j0081_001.yaml, hash: 'sha256:07b981b3c04c38cf1f33af0a44150cda4d9764b1ff4b7c67ed7d8eb01258454b'}
+  - {seq: 1, filename: KR6j0081_001.yaml, hash: 'sha256:93969953c72bee708b06c3113bde6597ee8756aeac5f285570ed5cf2ba5ad57b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0081_000.markers.yaml, hash: 'sha256:3a1b4d79ff7005c08ad2cbb9a764d54cc665e3a6eb66516c97c92666ffd09e3f'}
-  - {seq: 1, role: markers, filename: assets/KR6j0081_001.markers.yaml, hash: 'sha256:4bdf10288279614afe387595526b19c42b1ddf265478e508a356006bd3c91471'}
+  - {seq: 1, role: markers, filename: assets/KR6j0081_001.markers.yaml, hash: 'sha256:d5e0efa9cd8151ca03b779712f61dfda9e3a12c5ee62dfc9d78184c886e131cb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 梵天擇地法
   type: juan
   level: 1
-hash: sha256:79a6d78669a9a9da78ccf130c3e974fca0b779a85b0407725b8d3f4f01e51936
+hash: sha256:9a64d82d6bbc13d1ab0483b1a2157bd11f56995a3a9b998a08b1328eda161895
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
